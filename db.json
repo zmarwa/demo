@@ -10,5 +10,6 @@
     {"id": 1, "name": "Circuit Houmt Souk","image":"","description":"Ce circuit est facile","difficult":"facile","distance": "11 km"},
     {"id": 2, "name": "Circuit Guellala","image":"","description":"Ce circuit est difficle","difficult":"diffcile","distance": "30 km"},
     {"id": 3, "name": "Circuit Sedghian","image":"","description":"Ce circuit est difficle","difficult":"diffcile","distance": "30 km"},
-      }
+    ]
+  }
 }
